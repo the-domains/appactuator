@@ -1,0 +1,14 @@
+layout_spectrum: 0
+color:
+  saturation: 0.7562724
+  lightness: 0.3978495
+  brandStrength: 0.3010753
+  brandColors:
+    - '#FFFFFF'
+    - '#E54C3C'
+    - '#DBDBDB'
+    - '#F78C87'
+    - '#C46B64'
+  rhythmicContrast: 0.3884202
+typography_spectrum: 0.3387097
+name: AppActuator
